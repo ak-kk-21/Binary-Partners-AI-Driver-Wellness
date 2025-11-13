@@ -192,7 +192,7 @@ for ii = 1:600
         imshow(uint8(Ism));
         title('Mouth (K-Means)');
         
-        % --- Template Matching (Assumes match_DB.m and DB variables exist) ---
+        % --- Template Matching  ---
         % You must ensure that the function match_DB.m is available.
         
         % Left eye

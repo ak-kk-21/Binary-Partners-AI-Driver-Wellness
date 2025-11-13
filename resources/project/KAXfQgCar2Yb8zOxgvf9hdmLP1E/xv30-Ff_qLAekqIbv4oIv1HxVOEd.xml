@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="Vehicle Simulation/v1.slx" GroupUUID="default" Icon="" Name="v1" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="c38241ee-e19c-4a39-857f-b213ffdcffcf"/>
+</Info>

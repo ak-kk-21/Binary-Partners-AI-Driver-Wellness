@@ -1,0 +1,84 @@
+# ================================================
+# MATLAB Default Ignores (original rules preserved)
+# ================================================
+
+# Autosave files
+*.asv
+*.m~
+*.autosave
+*.slx.r*
+*.mdl.r*
+
+# Derived content-obscured files
+*.p
+
+# Compiled MEX files
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Deployable archives
+*.ctf
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Code generation folders
+slprj/
+sccprj/
+codegen/
+
+# Cache files
+*.slxc
+
+# Cloud-based storage dotfile
+.MATLABDriveTag
+
+# buildtool cache folder
+.buildtool/
+
+# SimBiology backup files
+*.sbproj.backup
+*.sbproj.bak
+
+
+# ================================================
+# Additions for Binary Partners AI Driver Wellness
+# ================================================
+
+# MATLAB Compiler and DeployTool artifacts
+for_redistribution*/
+for_testing*/
+for_redistribution_files_only*/
+Toolbox1/
+deploymentLog.html
+buildresult.json
+includedSupportPackages.txt
+requiredMCRProducts.txt
+mccExcludedFiles.log
+unresolvedSymbols.txt
+readme.txt
+
+# MATLAB Project internal metadata
+resources/4324d7d0-*/
+resources/*.json
+resources/*.txt
+
+# Build / Binary outputs
+*.exe
+*.zip
+
+# Logs and temp files
+*.log
+
+# MATLAB configuration and package artifacts
+.matlab/
+*.prj~
+*.gitignore
+.gitattributes
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
