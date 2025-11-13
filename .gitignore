@@ -60,6 +60,8 @@ requiredMCRProducts.txt
 mccExcludedFiles.log
 unresolvedSymbols.txt
 readme.txt
+AllScripts/
+resources/
 
 # MATLAB Project internal metadata
 resources/4324d7d0-*/
